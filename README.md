@@ -7,7 +7,7 @@ Aplicar os conhecimento adquiridos no boot camp da DIO - Orange Tech +.
 - Html
 
 ## Como foi feito
- Projeto iniciado como Create React App
+ Projeto iniciado como <a href="https://create-react-app.dev> "Create React App</a>
  
 ## Como utilizar
 Clone o repositorio
